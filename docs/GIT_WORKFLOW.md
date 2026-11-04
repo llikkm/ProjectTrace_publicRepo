@@ -16,7 +16,7 @@ git pull --ff-only
 ```powershell
 git status --short
 git diff
-git add -- IMU_Test_261104/IMU_Test_261104.ino
+git add -- "IMU_Test_261104/IMU_Test_261104.ino"
 git diff --cached --stat
 git diff --cached
 git commit -m "Describe the project update"
