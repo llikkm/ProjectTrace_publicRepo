@@ -1,0 +1,5 @@
+git status
+git add -- "需要提交的文件路径"
+git diff --cached
+git commit -m "说明本次修改"
+git push origin main
