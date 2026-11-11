@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15.5cm" height="8cm" viewBox="0 0 1550 800">
+<rect width="100%" height="100%" fill="white"/>
+<text x="380" y="45" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="34" text-anchor="middle" dominant-baseline="central">界面</text>
+<text x="1150" y="45" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="34" text-anchor="middle" dominant-baseline="central">状态切换</text>
+<line x1="760" y1="30" x2="760" y2="765" stroke="#727b83" stroke-width="2" stroke-dasharray="10 8"/>
+<rect x="35" y="100" width="690" height="630" rx="10" fill="white" stroke="#222222" stroke-width="2.5"/>
+<line x1="35" y1="205" x2="725" y2="205" stroke="#222222" stroke-width="2.5"/>
+<rect x="55" y="130" width="110" height="50" rx="5" fill="#f1f4f6" stroke="#222222" stroke-width="1.8"/>
+<text x="110.0" y="155" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central">操作工具</text>
+<rect x="175" y="130" width="110" height="50" rx="5" fill="#f1f4f6" stroke="#222222" stroke-width="1.8"/>
+<text x="230.0" y="155" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central">书写工具</text>
+<rect x="295" y="130" width="80" height="50" rx="5" fill="#f1f4f6" stroke="#222222" stroke-width="1.8"/>
+<text x="335.0" y="155" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central">清屏</text>
+<rect x="385" y="130" width="80" height="50" rx="5" fill="#f1f4f6" stroke="#222222" stroke-width="1.8"/>
+<text x="425.0" y="155" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central">保存</text>
+<rect x="475" y="130" width="230" height="50" rx="5" fill="#f1f4f6" stroke="#222222" stroke-width="1.8"/>
+<text x="590.0" y="155" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central">模式  近程</text>
+<rect x="60" y="235" width="445" height="465" rx="0" fill="white" stroke="#222222" stroke-width="2"/>
+<text x="282" y="271" fill="#727b83" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="29" text-anchor="middle" dominant-baseline="central">画布</text>
+<line x1="105" y1="430" x2="160" y2="375" stroke="#315f80" stroke-width="5"/>
+<line x1="160" y1="375" x2="225" y2="455" stroke="#315f80" stroke-width="5"/>
+<line x1="225" y1="455" x2="280" y2="360" stroke="#315f80" stroke-width="5"/>
+<line x1="280" y1="360" x2="340" y2="426" stroke="#315f80" stroke-width="5"/>
+<line x1="340" y1="426" x2="413" y2="340" stroke="#315f80" stroke-width="5"/>
+<circle cx="194" cy="570" r="55" fill="white" stroke="#315f80" stroke-width="4"/>
+<rect x="530" y="235" width="170" height="465" rx="0" fill="#fafafa" stroke="#222222" stroke-width="2"/>
+<text x="615" y="272" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central">对象 / 按钮</text>
+<rect x="547" y="320" width="136" height="48" rx="4" fill="white" stroke="#222222" stroke-width="1.5"/>
+<text x="615" y="344" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central">对象 1</text>
+<rect x="547" y="388" width="136" height="48" rx="4" fill="white" stroke="#222222" stroke-width="1.5"/>
+<text x="615" y="412" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central">对象 2</text>
+<rect x="547" y="456" width="136" height="48" rx="4" fill="white" stroke="#222222" stroke-width="1.5"/>
+<text x="615" y="480" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central">测试按钮</text>
+<rect x="1010" y="90" width="260" height="64" rx="16" fill="#f1f4f6" stroke="#222222" stroke-width="2.5"/>
+<text x="1140" y="122" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="30" text-anchor="middle" dominant-baseline="central">待机</text>
+<line x1="1140" y1="154" x2="1140" y2="200" stroke="#222222" stroke-width="2.5"/>
+<polygon points="1140,200 1144.4,189.0 1135.6,189.0" fill="#222222" stroke="#222222" stroke-width="1"/>
+<rect x="820" y="200" width="680" height="220" rx="16" fill="white" stroke="#315f80" stroke-width="2.5"/>
+<text x="1160" y="236" fill="#315f80" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="31" text-anchor="middle" dominant-baseline="central">近程（主要任务）</text>
+<text x="852" y="284" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="28" text-anchor="start" dominant-baseline="central">位置有效未接触 → 更新光标</text>
+<text x="852" y="332" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="28" text-anchor="start" dominant-baseline="central">接触 → 书写 / 按下</text>
+<text x="852" y="380" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="28" text-anchor="start" dominant-baseline="central">抬笔 → 结束笔画</text>
+<rect x="820" y="525" width="680" height="225" rx="16" fill="#f1f4f6" stroke="#222222" stroke-width="2.5"/>
+<text x="1160" y="559" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="31" text-anchor="middle" dominant-baseline="central">远程（后期拓展）</text>
+<text x="852" y="603" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="26" text-anchor="start" dominant-baseline="central">偏转笔杆 → 移动光标</text>
+<text x="852" y="644" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="26" text-anchor="start" dominant-baseline="central">固定键 → 按一次锁定 / 再按恢复</text>
+<text x="852" y="685" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="26" text-anchor="start" dominant-baseline="central">复位键 → 归中 / 松开定零</text>
+<text x="852" y="726" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="26" text-anchor="start" dominant-baseline="central">点击键 → 点击 / 拖动</text>
+<line x1="1170" y1="420" x2="1170" y2="525" stroke="#315f80" stroke-width="2.5"/>
+<polygon points="1170,525 1174.4,514.0 1165.6,514.0" fill="#315f80" stroke="#315f80" stroke-width="1"/>
+<text x="1330" y="455" fill="#315f80" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central">切换至远程</text>
+<text x="1330" y="492" fill="#727b83" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="21" text-anchor="middle" dominant-baseline="central">结束当前操作，释放按下状态</text>
+<line x1="820" y1="636" x2="795" y2="636" stroke="#315f80" stroke-width="2.5"/>
+<line x1="795" y1="636" x2="795" y2="310" stroke="#315f80" stroke-width="2.5"/>
+<line x1="795" y1="310" x2="820" y2="310" stroke="#315f80" stroke-width="2.5"/>
+<polygon points="820,310 811.0,306.4 811.0,313.6" fill="#315f80" stroke="#315f80" stroke-width="1"/>
+<text x="980" y="455" fill="#315f80" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central">回到近程</text>
+<text x="980" y="492" fill="#727b83" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="21" text-anchor="middle" dominant-baseline="central">结束当前操作，释放按下状态</text>
+</svg>

@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15cm" height="7cm" viewBox="0 0 1500 700">
+<rect width="100%" height="100%" fill="white"/>
+<line x1="55" y1="355" x2="1455" y2="355" stroke="#727b83" stroke-width="1.6" stroke-dasharray="20 7 3 7"/>
+<polygon points="80,265 1040,265 1120,325 1110,340 1030,290 80,290" fill="#f4f4f4" stroke="#222222" stroke-width="2.5"/>
+<line x1="100" y1="290" x2="125" y2="265" stroke="#727b83" stroke-width="1"/>
+<line x1="125" y1="290" x2="150" y2="265" stroke="#727b83" stroke-width="1"/>
+<line x1="150" y1="290" x2="175" y2="265" stroke="#727b83" stroke-width="1"/>
+<line x1="175" y1="290" x2="200" y2="265" stroke="#727b83" stroke-width="1"/>
+<line x1="200" y1="290" x2="225" y2="265" stroke="#727b83" stroke-width="1"/>
+<line x1="225" y1="290" x2="250" y2="265" stroke="#727b83" stroke-width="1"/>
+<line x1="250" y1="290" x2="275" y2="265" stroke="#727b83" stroke-width="1"/>
+<line x1="275" y1="290" x2="300" y2="265" stroke="#727b83" stroke-width="1"/>
+<line x1="300" y1="290" x2="325" y2="265" stroke="#727b83" stroke-width="1"/>
+<line x1="325" y1="290" x2="350" y2="265" stroke="#727b83" stroke-width="1"/>
+<line x1="350" y1="290" x2="375" y2="265" stroke="#727b83" stroke-width="1"/>
+<line x1="375" y1="290" x2="400" y2="265" stroke="#727b83" stroke-width="1"/>
+<line x1="400" y1="290" x2="425" y2="265" stroke="#727b83" stroke-width="1"/>
+<line x1="425" y1="290" x2="450" y2="265" stroke="#727b83" stroke-width="1"/>
+<line x1="450" y1="290" x2="475" y2="265" stroke="#727b83" stroke-width="1"/>
+<line x1="475" y1="290" x2="500" y2="265" stroke="#727b83" stroke-width="1"/>
+<line x1="500" y1="290" x2="525" y2="265" stroke="#727b83" stroke-width="1"/>
+<line x1="525" y1="290" x2="550" y2="265" stroke="#727b83" stroke-width="1"/>
+<line x1="550" y1="290" x2="575" y2="265" stroke="#727b83" stroke-width="1"/>
+<line x1="575" y1="290" x2="600" y2="265" stroke="#727b83" stroke-width="1"/>
+<line x1="600" y1="290" x2="625" y2="265" stroke="#727b83" stroke-width="1"/>
+<line x1="625" y1="290" x2="650" y2="265" stroke="#727b83" stroke-width="1"/>
+<line x1="650" y1="290" x2="675" y2="265" stroke="#727b83" stroke-width="1"/>
+<line x1="675" y1="290" x2="700" y2="265" stroke="#727b83" stroke-width="1"/>
+<line x1="700" y1="290" x2="725" y2="265" stroke="#727b83" stroke-width="1"/>
+<line x1="725" y1="290" x2="750" y2="265" stroke="#727b83" stroke-width="1"/>
+<line x1="750" y1="290" x2="775" y2="265" stroke="#727b83" stroke-width="1"/>
+<line x1="775" y1="290" x2="800" y2="265" stroke="#727b83" stroke-width="1"/>
+<line x1="800" y1="290" x2="825" y2="265" stroke="#727b83" stroke-width="1"/>
+<line x1="825" y1="290" x2="850" y2="265" stroke="#727b83" stroke-width="1"/>
+<line x1="850" y1="290" x2="875" y2="265" stroke="#727b83" stroke-width="1"/>
+<line x1="875" y1="290" x2="900" y2="265" stroke="#727b83" stroke-width="1"/>
+<line x1="900" y1="290" x2="925" y2="265" stroke="#727b83" stroke-width="1"/>
+<line x1="925" y1="290" x2="950" y2="265" stroke="#727b83" stroke-width="1"/>
+<line x1="950" y1="290" x2="975" y2="265" stroke="#727b83" stroke-width="1"/>
+<line x1="975" y1="290" x2="1000" y2="265" stroke="#727b83" stroke-width="1"/>
+<line x1="1000" y1="290" x2="1025" y2="265" stroke="#727b83" stroke-width="1"/>
+<line x1="80" y1="290" x2="80" y2="430" stroke="#222222" stroke-width="2.5"/>
+<line x1="80" y1="430" x2="1040" y2="430" stroke="#222222" stroke-width="2.5"/>
+<line x1="1040" y1="430" x2="1120" y2="385" stroke="#222222" stroke-width="2.5"/>
+<line x1="1120" y1="385" x2="1120" y2="370" stroke="#222222" stroke-width="2.5"/>
+<line x1="80" y1="265" x2="80" y2="290" stroke="#222222" stroke-width="2.5"/>
+<rect x="110" y="315" width="185" height="62" rx="7" fill="#f1f4f6" stroke="#222222" stroke-width="2.5"/>
+<text x="202" y="346" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="28" text-anchor="middle" dominant-baseline="central">ESP32-S3</text>
+<rect x="130" y="391" width="140" height="26" rx="3" fill="white" stroke="#222222" stroke-width="2.5"/>
+<text x="200" y="402" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="23" text-anchor="middle" dominant-baseline="central">电池</text>
+<rect x="365" y="245" width="85" height="21" rx="5" fill="#f1f4f6" stroke="#222222" stroke-width="2.5"/>
+<text x="407" y="190" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="29" text-anchor="middle" dominant-baseline="central">模式键</text>
+<line x1="407" y1="213" x2="407" y2="243" stroke="#727b83" stroke-width="1.8"/>
+<text x="205" y="480" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="28" text-anchor="middle" dominant-baseline="central">笔尾</text>
+<line x1="205" y1="458" x2="205" y2="430" stroke="#727b83" stroke-width="1.8"/>
+<rect x="445" y="328" width="80" height="55" rx="4" fill="#f1f4f6" stroke="#222222" stroke-width="2.5"/>
+<rect x="525" y="347" width="20" height="16" rx="0" fill="#dddddd" stroke="#222222" stroke-width="2.5"/>
+<rect x="560" y="344" width="818" height="22" rx="0" fill="#fafafa" stroke="#222222" stroke-width="2.5"/>
+<line x1="573" y1="315" x2="573" y2="344" stroke="#222222" stroke-width="2.5"/>
+<line x1="573" y1="366" x2="573" y2="399" stroke="#222222" stroke-width="2.5"/>
+<line x1="716" y1="318" x2="716" y2="394" stroke="#222222" stroke-width="5"/>
+<line x1="578" y1="355" x2="585.0" y2="334" stroke="#222222" stroke-width="2"/>
+<line x1="585.0" y1="334" x2="592.3" y2="376" stroke="#222222" stroke-width="2"/>
+<line x1="592.3" y1="376" x2="599.6" y2="334" stroke="#222222" stroke-width="2"/>
+<line x1="599.6" y1="334" x2="606.9" y2="376" stroke="#222222" stroke-width="2"/>
+<line x1="606.9" y1="376" x2="614.2" y2="334" stroke="#222222" stroke-width="2"/>
+<line x1="614.2" y1="334" x2="621.5" y2="376" stroke="#222222" stroke-width="2"/>
+<line x1="621.5" y1="376" x2="628.8" y2="334" stroke="#222222" stroke-width="2"/>
+<line x1="628.8" y1="334" x2="636.1" y2="376" stroke="#222222" stroke-width="2"/>
+<line x1="636.1" y1="376" x2="643.4" y2="334" stroke="#222222" stroke-width="2"/>
+<line x1="643.4" y1="334" x2="650.7" y2="376" stroke="#222222" stroke-width="2"/>
+<line x1="650.7" y1="376" x2="658.0" y2="334" stroke="#222222" stroke-width="2"/>
+<line x1="658.0" y1="334" x2="665.3" y2="376" stroke="#222222" stroke-width="2"/>
+<line x1="665.3" y1="376" x2="672.6" y2="334" stroke="#222222" stroke-width="2"/>
+<line x1="672.6" y1="334" x2="679.9" y2="376" stroke="#222222" stroke-width="2"/>
+<line x1="679.9" y1="376" x2="687.2" y2="334" stroke="#222222" stroke-width="2"/>
+<line x1="687.2" y1="334" x2="694.5" y2="376" stroke="#222222" stroke-width="2"/>
+<line x1="694.5" y1="376" x2="701.8" y2="334" stroke="#222222" stroke-width="2"/>
+<line x1="701.8" y1="334" x2="710" y2="355" stroke="#222222" stroke-width="2"/>
+<text x="660" y="190" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="29" text-anchor="middle" dominant-baseline="central">复位弹簧</text>
+<line x1="660" y1="212" x2="660" y2="315" stroke="#727b83" stroke-width="1.8"/>
+<text x="920" y="190" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="29" text-anchor="middle" dominant-baseline="central">笔尖杆</text>
+<line x1="920" y1="212" x2="920" y2="335" stroke="#727b83" stroke-width="1.8"/>
+<text x="465" y="480" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="27" text-anchor="middle" dominant-baseline="central">微动开关，受压触发</text>
+<line x1="490" y1="456" x2="490" y2="388" stroke="#727b83" stroke-width="1.8"/>
+<line x1="543" y1="310" x2="573" y2="310" stroke="#315f80" stroke-width="1.8"/>
+<polygon points="573,310 566.0,307.2 566.0,312.8" fill="#315f80" stroke="#315f80" stroke-width="1"/>
+<polygon points="543,310 550.0,312.8 550.0,307.2" fill="#315f80" stroke="#315f80" stroke-width="1"/>
+<text x="485" y="110" fill="#315f80" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="27" text-anchor="middle" dominant-baseline="central">压动行程约 1 mm</text>
+<line x1="500" y1="132" x2="540" y2="220" stroke="#727b83" stroke-width="1.8"/>
+<line x1="540" y1="220" x2="553" y2="300" stroke="#727b83" stroke-width="1.8"/>
+<rect x="1170" y="315" width="70" height="80" rx="0" fill="#e4edf3" stroke="#315f80" stroke-width="3"/>
+<line x1="1181" y1="315" x2="1181" y2="395" stroke="#315f80" stroke-width="1"/>
+<line x1="1229" y1="315" x2="1229" y2="395" stroke="#315f80" stroke-width="1"/>
+<circle cx="1385" cy="355" r="15" fill="#f1f4f6" stroke="#222222" stroke-width="3"/>
+<text x="1160" y="75" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="29" text-anchor="middle" dominant-baseline="central">可拆卸套环</text>
+<text x="1160" y="116" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="27" text-anchor="middle" dominant-baseline="central">外径 D 可替换</text>
+<line x1="1195" y1="140" x2="1205" y2="195" stroke="#727b83" stroke-width="1.8"/>
+<line x1="1205" y1="195" x2="1205" y2="308" stroke="#727b83" stroke-width="1.8"/>
+<text x="1360" y="190" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="27" text-anchor="middle" dominant-baseline="central">可更换圆头笔尖</text>
+<line x1="1360" y1="214" x2="1385" y2="330" stroke="#727b83" stroke-width="1.8"/>
+<line x1="1205" y1="175" x2="1205" y2="648" stroke="#315f80" stroke-width="2" stroke-dasharray="18 7 3 7"/>
+<line x1="1400" y1="250" x2="1400" y2="650" stroke="#222222" stroke-width="4"/>
+<text x="1440" y="280" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="27" text-anchor="middle" dominant-baseline="central" transform="rotate(90 1440 280)">板面</text>
+<text x="1070" y="475" fill="#315f80" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="27" text-anchor="middle" dominant-baseline="central">雷达扫描面</text>
+<text x="1070" y="511" fill="#315f80" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central">与板面平行</text>
+<line x1="1170" y1="475" x2="1205" y2="445" stroke="#727b83" stroke-width="1.8"/>
+<line x1="1245" y1="315" x2="1303" y2="315" stroke="#727b83" stroke-width="1"/>
+<line x1="1245" y1="395" x2="1303" y2="395" stroke="#727b83" stroke-width="1"/>
+<line x1="1290" y1="315" x2="1290" y2="395" stroke="#315f80" stroke-width="2"/>
+<polygon points="1290,395 1293.6,386.0 1286.4,386.0" fill="#315f80" stroke="#315f80" stroke-width="1"/>
+<polygon points="1290,315 1286.4,324.0 1293.6,324.0" fill="#315f80" stroke="#315f80" stroke-width="1"/>
+<text x="1322" y="355" fill="#315f80" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="30" text-anchor="middle" dominant-baseline="central">D</text>
+<line x1="1205" y1="564" x2="1400" y2="564" stroke="#315f80" stroke-width="2"/>
+<polygon points="1400,564 1391.0,560.4 1391.0,567.6" fill="#315f80" stroke="#315f80" stroke-width="1"/>
+<polygon points="1205,564 1214.0,567.6 1214.0,560.4" fill="#315f80" stroke="#315f80" stroke-width="1"/>
+<text x="1302" y="541" fill="#315f80" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="30" text-anchor="middle" dominant-baseline="central">L</text>
+<line x1="1205" y1="626" x2="1400" y2="626" stroke="#315f80" stroke-width="2"/>
+<polygon points="1400,626 1391.0,622.4 1391.0,629.6" fill="#315f80" stroke="#315f80" stroke-width="1"/>
+<polygon points="1205,626 1214.0,629.6 1214.0,622.4" fill="#315f80" stroke="#315f80" stroke-width="1"/>
+<text x="1302" y="603" fill="#315f80" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="30" text-anchor="middle" dominant-baseline="central">h</text>
+</svg>

@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15.5cm" height="8cm" viewBox="0 0 1550 800">
+<rect width="100%" height="100%" fill="white"/>
+<rect x="55" y="65" width="280" height="105" rx="8" fill="#f1f4f6" stroke="#222222" stroke-width="2.5"/>
+<text x="195" y="117" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="32" text-anchor="middle" dominant-baseline="central">二维激光雷达</text>
+<rect x="425" y="55" width="310" height="125" rx="8" fill="#f1f4f6" stroke="#222222" stroke-width="2.5"/>
+<text x="580" y="91" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="31" text-anchor="middle" dominant-baseline="central">交互笔</text>
+<text x="580" y="139" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="24" text-anchor="middle" dominant-baseline="central">笔尖开关 / 按键 / IMU</text>
+<rect x="855" y="80" width="230" height="80" rx="8" fill="#f1f4f6" stroke="#222222" stroke-width="2.5"/>
+<text x="970" y="119" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="31" text-anchor="middle" dominant-baseline="central">ESP32-S3</text>
+<line x1="735" y1="120" x2="855" y2="120" stroke="#222222" stroke-width="2.5"/>
+<polygon points="855,120 844.0,115.6 844.0,124.4" fill="#222222" stroke="#222222" stroke-width="1"/>
+<text x="795" y="91" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="24" text-anchor="middle" dominant-baseline="central">采集</text>
+<rect x="25" y="270" width="1300" height="215" rx="8" fill="white" stroke="#315f80" stroke-width="2.5"/>
+<text x="500" y="301" fill="#315f80" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="29" text-anchor="middle" dominant-baseline="central">电脑处理程序</text>
+<rect x="44" y="355" width="144" height="72" rx="0" fill="white" stroke="#222222" stroke-width="2"/>
+<text x="116" y="391" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="22" text-anchor="middle" dominant-baseline="central">扫描数据接入</text>
+<line x1="188" y1="391" x2="204" y2="391" stroke="#222222" stroke-width="2"/>
+<polygon points="204,391 197.0,388.2 197.0,393.8" fill="#222222" stroke="#222222" stroke-width="1"/>
+<rect x="204" y="355" width="144" height="72" rx="0" fill="white" stroke="#222222" stroke-width="2"/>
+<text x="276" y="391" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="22" text-anchor="middle" dominant-baseline="central">有效区域筛选</text>
+<line x1="348" y1="391" x2="364" y2="391" stroke="#222222" stroke-width="2"/>
+<polygon points="364,391 357.0,388.2 357.0,393.8" fill="#222222" stroke="#222222" stroke-width="1"/>
+<rect x="364" y="355" width="144" height="72" rx="0" fill="white" stroke="#222222" stroke-width="2"/>
+<text x="436" y="391" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="22" text-anchor="middle" dominant-baseline="central">笔端检测</text>
+<line x1="508" y1="391" x2="524" y2="391" stroke="#222222" stroke-width="2"/>
+<polygon points="524,391 517.0,388.2 517.0,393.8" fill="#222222" stroke="#222222" stroke-width="1"/>
+<rect x="524" y="355" width="144" height="72" rx="0" fill="white" stroke="#222222" stroke-width="2"/>
+<text x="596" y="391" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="22" text-anchor="middle" dominant-baseline="central">目标跟踪</text>
+<line x1="668" y1="391" x2="684" y2="391" stroke="#222222" stroke-width="2"/>
+<polygon points="684,391 677.0,388.2 677.0,393.8" fill="#222222" stroke="#222222" stroke-width="1"/>
+<rect x="684" y="355" width="144" height="72" rx="0" fill="white" stroke="#222222" stroke-width="2"/>
+<text x="756" y="391" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="22" text-anchor="middle" dominant-baseline="central">笔尖位置估计</text>
+<line x1="828" y1="391" x2="844" y2="391" stroke="#222222" stroke-width="2"/>
+<polygon points="844,391 837.0,388.2 837.0,393.8" fill="#222222" stroke="#222222" stroke-width="1"/>
+<rect x="844" y="355" width="144" height="72" rx="0" fill="white" stroke="#222222" stroke-width="2"/>
+<text x="916" y="391" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="22" text-anchor="middle" dominant-baseline="central">投影坐标映射</text>
+<line x1="988" y1="391" x2="1004" y2="391" stroke="#222222" stroke-width="2"/>
+<polygon points="1004,391 997.0,388.2 997.0,393.8" fill="#222222" stroke="#222222" stroke-width="1"/>
+<rect x="1004" y="355" width="144" height="72" rx="0" fill="white" stroke="#222222" stroke-width="2"/>
+<text x="1076" y="391" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="22" text-anchor="middle" dominant-baseline="central">接触事件融合</text>
+<line x1="1148" y1="391" x2="1164" y2="391" stroke="#222222" stroke-width="2"/>
+<polygon points="1164,391 1157.0,388.2 1157.0,393.8" fill="#222222" stroke="#222222" stroke-width="1"/>
+<rect x="1164" y="355" width="144" height="72" rx="0" fill="white" stroke="#222222" stroke-width="2"/>
+<text x="1236" y="391" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="22" text-anchor="middle" dominant-baseline="central">界面响应</text>
+<line x1="195" y1="170" x2="195" y2="241" stroke="#222222" stroke-width="2.5"/>
+<polygon points="195,241 199.4,230.0 190.6,230.0" fill="#222222" stroke="#222222" stroke-width="1"/>
+<line x1="195" y1="241" x2="116" y2="241" stroke="#222222" stroke-width="2.5"/>
+<line x1="116" y1="241" x2="116" y2="355" stroke="#222222" stroke-width="2.5"/>
+<polygon points="116,355 120.4,344.0 111.6,344.0" fill="#222222" stroke="#222222" stroke-width="1"/>
+<text x="210" y="211" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="26" text-anchor="start" dominant-baseline="central">以太网 / 厂家 SDK</text>
+<line x1="970" y1="160" x2="970" y2="241" stroke="#222222" stroke-width="2.5"/>
+<line x1="970" y1="241" x2="1076" y2="241" stroke="#222222" stroke-width="2.5"/>
+<line x1="1076" y1="241" x2="1076" y2="355" stroke="#222222" stroke-width="2.5"/>
+<polygon points="1076,355 1080.4,344.0 1071.6,344.0" fill="#222222" stroke="#222222" stroke-width="1"/>
+<text x="1115" y="211" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="26" text-anchor="middle" dominant-baseline="central">USB 串口</text>
+<rect x="1365" y="355" width="150" height="72" rx="6" fill="#f1f4f6" stroke="#222222" stroke-width="2.5"/>
+<text x="1440" y="391" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="29" text-anchor="middle" dominant-baseline="central">投影仪</text>
+<line x1="1308" y1="391" x2="1365" y2="391" stroke="#222222" stroke-width="2.5"/>
+<polygon points="1365,391 1356.0,387.4 1356.0,394.6" fill="#222222" stroke="#222222" stroke-width="1"/>
+<rect x="1330" y="75" width="190" height="115" rx="0" fill="white" stroke="#222222" stroke-width="3"/>
+<text x="1425" y="132" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="29" text-anchor="middle" dominant-baseline="central">投影画面</text>
+<line x1="1440" y1="355" x2="1440" y2="190" stroke="#222222" stroke-width="2.5"/>
+<polygon points="1440,190 1435.6,201.0 1444.4,201.0" fill="#222222" stroke="#222222" stroke-width="1"/>
+<text x="1468" y="270" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="24" text-anchor="middle" dominant-baseline="central" transform="rotate(90 1468 270)">显示</text>
+<line x1="70" y1="612" x2="1320" y2="612" stroke="#727b83" stroke-width="2"/>
+<polygon points="1320,612 1311.0,608.4 1311.0,615.6" fill="#727b83" stroke="#727b83" stroke-width="1"/>
+<line x1="116" y1="427" x2="116" y2="612" stroke="#727b83" stroke-width="1.6" stroke-dasharray="7 7"/>
+<circle cx="116" cy="612" r="5" fill="#315f80" stroke="#315f80" stroke-width="1"/>
+<line x1="1076" y1="427" x2="1076" y2="612" stroke="#727b83" stroke-width="1.6" stroke-dasharray="7 7"/>
+<circle cx="1076" cy="612" r="5" fill="#315f80" stroke="#315f80" stroke-width="1"/>
+<line x1="1236" y1="427" x2="1236" y2="612" stroke="#727b83" stroke-width="1.6" stroke-dasharray="7 7"/>
+<circle cx="1236" cy="612" r="5" fill="#315f80" stroke="#315f80" stroke-width="1"/>
+<rect x="106" y="507" width="148" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<rect x="925" y="507" width="171" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<rect x="1162" y="547" width="176" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="180" y="526" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central">扫描时间戳</text>
+<text x="1010" y="526" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="24" text-anchor="middle" dominant-baseline="central">串口接收时间</text>
+<text x="1250" y="566" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="24" text-anchor="middle" dominant-baseline="central">画面刷新时间</text>
+<text x="670" y="652" fill="#727b83" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central">电脑统一时间轴（设备时间经对齐）</text>
+<line x1="116" y1="680" x2="116" y2="696" stroke="#315f80" stroke-width="2"/>
+<line x1="116" y1="696" x2="1236" y2="696" stroke="#315f80" stroke-width="2"/>
+<line x1="1236" y1="696" x2="1236" y2="680" stroke="#315f80" stroke-width="2"/>
+<text x="676" y="741" fill="#315f80" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="28" text-anchor="middle" dominant-baseline="central">端到端延迟（接触或运动至画面变化，录像测量）</text>
+</svg>

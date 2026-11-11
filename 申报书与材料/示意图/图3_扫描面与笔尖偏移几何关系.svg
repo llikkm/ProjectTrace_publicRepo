@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="9cm" height="7.5cm" viewBox="0 0 900 750">
+<rect width="100%" height="100%" fill="white"/>
+<line x1="290" y1="105" x2="290" y2="620" stroke="#315f80" stroke-width="3" stroke-dasharray="18 7 3 7"/>
+<line x1="680" y1="105" x2="680" y2="620" stroke="#222222" stroke-width="5"/>
+<text x="245" y="34" fill="#315f80" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="30" text-anchor="middle" dominant-baseline="central">雷达扫描面</text>
+<text x="680" y="34" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="30" text-anchor="middle" dominant-baseline="central">书写面（板面）</text>
+<line x1="290" y1="88" x2="680" y2="88" stroke="#315f80" stroke-width="2"/>
+<polygon points="680,88 671.0,84.4 671.0,91.6" fill="#315f80" stroke="#315f80" stroke-width="1"/>
+<polygon points="290,88 299.0,91.6 299.0,84.4" fill="#315f80" stroke="#315f80" stroke-width="1"/>
+<text x="485" y="63" fill="#315f80" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="30" text-anchor="middle" dominant-baseline="central">h</text>
+<line x1="150" y1="540" x2="820" y2="540" stroke="#727b83" stroke-width="2" stroke-dasharray="10 7"/>
+<text x="205" y="581" fill="#727b83" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="27" text-anchor="middle" dominant-baseline="central">法线方向</text>
+<line x1="290" y1="150" x2="680" y2="150" stroke="#727b83" stroke-width="1.8" stroke-dasharray="8 7"/>
+<line x1="230" y1="90" x2="680" y2="540" stroke="#222222" stroke-width="5"/>
+<circle cx="290" cy="150" r="7" fill="#315f80" stroke="#315f80" stroke-width="2.5"/>
+<circle cx="680" cy="540" r="7" fill="#222222" stroke="#222222" stroke-width="2.5"/>
+<text x="137" y="205" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="29" text-anchor="middle" dominant-baseline="central">A  检测位置</text>
+<line x1="223" y1="205" x2="272" y2="164" stroke="#727b83" stroke-width="1.8"/>
+<text x="633" y="593" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="29" text-anchor="middle" dominant-baseline="central">B  笔尖落点</text>
+<line x1="641" y1="570" x2="674" y2="546" stroke="#727b83" stroke-width="1.8"/>
+<line x1="775" y1="150" x2="775" y2="540" stroke="#315f80" stroke-width="2"/>
+<polygon points="775,540 778.6,531.0 771.4,531.0" fill="#315f80" stroke="#315f80" stroke-width="1"/>
+<polygon points="775,150 771.4,159.0 778.6,159.0" fill="#315f80" stroke="#315f80" stroke-width="1"/>
+<text x="810" y="345" fill="#315f80" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="30" text-anchor="middle" dominant-baseline="central">d</text>
+<line x1="690" y1="150" x2="788" y2="150" stroke="#727b83" stroke-width="1.5"/>
+<line x1="690" y1="540" x2="788" y2="540" stroke="#727b83" stroke-width="1.5"/>
+<line x1="575.0" y1="540.0" x2="575.0359808775665" y2="537.2514204276733" stroke="#315f80" stroke-width="2"/>
+<line x1="575.0359808775665" y1="537.2514204276733" x2="575.1438988507698" y2="534.5047245944909" stroke="#315f80" stroke-width="2"/>
+<line x1="575.1438988507698" y1="534.5047245944909" x2="575.3236799580216" y2="531.7617949485763" stroke="#315f80" stroke-width="2"/>
+<line x1="575.3236799580216" y1="531.7617949485763" x2="575.5752009863313" y2="529.0245113568964" stroke="#315f80" stroke-width="2"/>
+<line x1="575.5752009863313" y1="529.0245113568964" x2="575.8982895557499" y2="526.2947498168946" stroke="#315f80" stroke-width="2"/>
+<line x1="575.8982895557499" y1="526.2947498168946" x2="576.2927242375106" y2="523.5743811707757" stroke="#315f80" stroke-width="2"/>
+<line x1="576.2927242375106" y1="523.5743811707757" x2="576.7582347057847" y2="520.8652698233245" stroke="#315f80" stroke-width="2"/>
+<line x1="576.7582347057847" y1="520.8652698233245" x2="577.2945019229504" y2="518.1692724641352" stroke="#315f80" stroke-width="2"/>
+<line x1="577.2945019229504" y1="518.1692724641352" x2="577.901158358244" y2="515.48823679513" stroke="#315f80" stroke-width="2"/>
+<line x1="577.901158358244" y1="515.48823679513" x2="578.5777882396478" y2="512.8240002642353" stroke="#315f80" stroke-width="2"/>
+<line x1="578.5777882396478" y1="512.8240002642353" x2="579.3239278388397" y2="510.1783888060881" stroke="#315f80" stroke-width="2"/>
+<line x1="579.3239278388397" y1="510.1783888060881" x2="580.1390657890089" y2="507.55321559063054" stroke="#315f80" stroke-width="2"/>
+<line x1="580.1390657890089" y1="507.55321559063054" x2="581.0226434353212" y2="504.950279780454" stroke="#315f80" stroke-width="2"/>
+<line x1="581.0226434353212" y1="504.950279780454" x2="581.9740552177939" y2="502.37136529774347" stroke="#315f80" stroke-width="2"/>
+<line x1="581.9740552177939" y1="502.37136529774347" x2="582.9926490863149" y2="499.8182396016656" stroke="#315f80" stroke-width="2"/>
+<line x1="582.9926490863149" y1="499.8182396016656" x2="584.0777269475269" y2="497.292652477041" stroke="#315f80" stroke-width="2"/>
+<line x1="584.0777269475269" y1="497.292652477041" x2="585.2285451432647" y2="494.796334835129" stroke="#315f80" stroke-width="2"/>
+<line x1="585.2285451432647" y1="494.796334835129" x2="586.4443149602214" y2="492.3309975273476" stroke="#315f80" stroke-width="2"/>
+<line x1="586.4443149602214" y1="492.3309975273476" x2="587.7242031704936" y2="489.8983301727411" stroke="#315f80" stroke-width="2"/>
+<line x1="587.7242031704936" y1="489.8983301727411" x2="589.067332602634" y2="487.5" stroke="#315f80" stroke-width="2"/>
+<line x1="589.067332602634" y1="487.5" x2="590.4727827428203" y2="485.1376507048254" stroke="#315f80" stroke-width="2"/>
+<line x1="590.4727827428203" y1="485.1376507048254" x2="591.9395903657305" y2="482.8129013234221" stroke="#315f80" stroke-width="2"/>
+<line x1="591.9395903657305" y1="482.8129013234221" x2="593.4667501946883" y2="480.52734512289254" stroke="#315f80" stroke-width="2"/>
+<line x1="593.4667501946883" y1="480.52734512289254" x2="595.0532155906305" y2="478.28254850929034" stroke="#315f80" stroke-width="2"/>
+<line x1="595.0532155906305" y1="478.28254850929034" x2="596.6978992694203" y2="476.0800499540843" stroke="#315f80" stroke-width="2"/>
+<line x1="596.6978992694203" y1="476.0800499540843" x2="598.399674047018" y2="473.92135893976706" stroke="#315f80" stroke-width="2"/>
+<line x1="598.399674047018" y1="473.92135893976706" x2="600.1573736119967" y2="471.8079549253307" stroke="#315f80" stroke-width="2"/>
+<line x1="600.1573736119967" y1="471.8079549253307" x2="601.9697933248736" y2="469.7412863323199" stroke="#315f80" stroke-width="2"/>
+<line x1="601.9697933248736" y1="469.7412863323199" x2="603.8356910437099" y2="467.7227695521558" stroke="#315f80" stroke-width="2"/>
+<line x1="603.8356910437099" y1="467.7227695521558" x2="605.7537879754125" y2="465.75378797541254" stroke="#315f80" stroke-width="2"/>
+<text x="548" y="484" fill="#315f80" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="34" text-anchor="middle" dominant-baseline="central">θ</text>
+<line x1="522" y1="382" x2="425" y2="285" stroke="#315f80" stroke-width="3"/>
+<polygon points="425,285 430.5154328932551,297.8693434175952 437.8693434175952,290.5154328932551" fill="#315f80" stroke="#315f80" stroke-width="1"/>
+<text x="455" y="430" fill="#315f80" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="26" text-anchor="middle" dominant-baseline="central">u（笔尖指向笔尾）</text>
+<text x="510" y="650" fill="#315f80" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="36" text-anchor="middle" dominant-baseline="central">d = h·tan θ</text>
+<text x="450" y="711" fill="#222222" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="28" text-anchor="middle" dominant-baseline="central">h = 10 mm，θ = 45° 时 d ≈ 10 mm</text>
+</svg>

@@ -5,6 +5,11 @@
 #define SCL_PIN 9
 #define IMU_ADDR 0x6A
 
+// 陀螺仪静态零偏，单位：°/s
+float gyroBiasX = -1.4343;
+float gyroBiasY = -1.8020;
+float gyroBiasZ = -0.0069;
+
 // 写入一个寄存器
 bool writeReg(uint8_t reg, uint8_t value) {
   Wire.beginTransmission(IMU_ADDR);
@@ -97,6 +102,9 @@ void loop() {
   int16_t ay_raw = toInt16(data[8], data[9]);
   int16_t az_raw = toInt16(data[10], data[11]);
 
+
+
+
   // ±250dps：8.75 mdps/LSB
   float gx = gx_raw * 0.00875f;
   float gy = gy_raw * 0.00875f;
@@ -107,11 +115,21 @@ void loop() {
   float ay = ay_raw * 0.000061f;
   float az = az_raw * 0.000061f;
 
+
+  
+  // 陀螺仪零偏修正
+  gx -= gyroBiasX;
+  gy -= gyroBiasY;
+  gz -= gyroBiasZ;
+
+
+
+
+
   Serial.printf(
     "AX:%.3f AY:%.3f AZ:%.3f "
     "GX:%.3f GY:%.3f GZ:%.3f\n",
-    ax, ay, az, gx, gy, gz
-  );
+    ax, ay, az, gx, gy, gz);
 
   delay(50);
 }
